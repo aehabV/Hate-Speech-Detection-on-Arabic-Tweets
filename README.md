@@ -1,5 +1,8 @@
 # TextCalssificationUsingBERT
 
+# Team member 
+![Team](https://user-images.githubusercontent.com/95087747/168390499-5ca8becb-77f6-404d-81ee-62e90d7184dd.PNG)
+
 ## Fine-Grained Hate Speech Detection on Arabic Twitter
 Disclaimer: Some examples have offensive language and hate speech!
 
