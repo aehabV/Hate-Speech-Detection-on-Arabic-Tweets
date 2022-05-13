@@ -69,3 +69,22 @@ Subtask B is more challenging than Subtask A as 11% only of the tweets are label
 
 Example: أنتم شعب متخلف (You are a retarded people)
 
+
+
+## Dataset
+Download training data from: https://alt.qcri.org/resources/OSACT2022/OSACT2022-sharedTask-train.txt
+
+Download development data from: https://alt.qcri.org/resources/OSACT2022/OSACT2022-sharedTask-dev.txt
+
+## Preprocessing 
+we clean data set from any emotions and any labels like HS/NotHs tags and other tags 
+We convert HS/Not HS to 0/1 number in dataset labels
+We convert OFF/Not OFF tags to 0/1 number in dataset labels 
+you can find the Preprocessing File in 
+## Model 
+we used MaraBert and is Deep Bidirectional Transofrmers For Arabic  from HuggingFace 
+> https://huggingface.co/UBC-NLP/MARBERT
+**MARBERT** is one of three models described in our **ACL 2021 paper** 
+![Arabic-BERT-model-architecture](https://user-images.githubusercontent.com/95087747/168382695-77575676-ac0b-405b-abdd-84cc59dfcf32.png)
+## Preformance Evaluation 
+
