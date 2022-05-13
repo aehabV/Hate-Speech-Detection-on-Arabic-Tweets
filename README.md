@@ -97,4 +97,4 @@ F1-score of Task A 84%
 
 ### Evaluate Task B 
 ![HSAndNotHS](https://user-images.githubusercontent.com/95087747/168384990-08b0e5ba-bc6f-4c15-8327-88e9e4842ea2.PNG)
-F1-score of Task B 94%
+F1-score of Task B 92%
