@@ -78,8 +78,11 @@ Download development data from: https://alt.qcri.org/resources/OSACT2022/OSACT20
 
 ## Preprocessing 
 we clean data set from any emotions and any labels like HS/NotHs tags and other tags 
+##
 We convert HS/Not HS to 0/1 number in dataset labels
+##
 We convert OFF/Not OFF tags to 0/1 number in dataset labels 
+##
 you can find the Preprocessing File in 
 ## Model 
 we used MaraBert and is Deep Bidirectional Transofrmers For Arabic  from HuggingFace 
