@@ -90,4 +90,7 @@ we used MaraBert and is Deep Bidirectional Transofrmers For Arabic  from Hugging
 **MARBERT** is one of three models described in our **ACL 2021 paper** 
 ![Arabic-BERT-model-architecture](https://user-images.githubusercontent.com/95087747/168382695-77575676-ac0b-405b-abdd-84cc59dfcf32.png)
 ## Preformance Evaluation 
+### Evaluate Task A
+![OFF_NOTOFF](https://user-images.githubusercontent.com/95087747/168384425-21068f1a-a58e-40c4-9232-552747d629ef.PNG)
 
+### Evaluate Task B 
