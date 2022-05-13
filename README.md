@@ -1,6 +1,6 @@
 # TextCalssificationUsingBERT
 
-##Fine-Grained Hate Speech Detection on Arabic Twitter
+## Fine-Grained Hate Speech Detection on Arabic Twitter
 Disclaimer: Some examples have offensive language and hate speech!
 
 
