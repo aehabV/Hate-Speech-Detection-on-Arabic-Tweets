@@ -93,4 +93,8 @@ we used MaraBert and is Deep Bidirectional Transofrmers For Arabic  from Hugging
 ### Evaluate Task A
 ![OFF_NOTOFF](https://user-images.githubusercontent.com/95087747/168384425-21068f1a-a58e-40c4-9232-552747d629ef.PNG)
 
+Accuracy of Task A 84%
+
 ### Evaluate Task B 
+![HSAndNotHS](https://user-images.githubusercontent.com/95087747/168384990-08b0e5ba-bc6f-4c15-8327-88e9e4842ea2.PNG)
+Accuracy of Task B 94%
