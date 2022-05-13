@@ -104,10 +104,11 @@ we used MaraBert and is Deep Bidirectional Transofrmers For Arabic  from Hugging
 ![Arabic-BERT-model-architecture](https://user-images.githubusercontent.com/95087747/168382695-77575676-ac0b-405b-abdd-84cc59dfcf32.png)
 ## Preformance Evaluation 
 ### Evaluate Task A
-![OFF_NOTOFF](https://user-images.githubusercontent.com/95087747/168384425-21068f1a-a58e-40c4-9232-552747d629ef.PNG)
+![FinalOFF](https://user-images.githubusercontent.com/95087747/168401678-ad7ada22-f1bc-4cc6-8263-ff4c2ffe748d.PNG)
 
 F1-score of Task A 88%
 
 ### Evaluate Task B 
-![HSAndNotHS](https://user-images.githubusercontent.com/95087747/168384990-08b0e5ba-bc6f-4c15-8327-88e9e4842ea2.PNG)
+![FinalHS](https://user-images.githubusercontent.com/95087747/168401713-cbbdcd3a-a1fe-45f2-a6e7-a7f2d722faa1.PNG)
+
 F1-score of Task B 92%
