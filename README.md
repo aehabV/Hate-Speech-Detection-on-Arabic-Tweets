@@ -1,7 +1,17 @@
 # TextCalssificationUsingBERT
 
 # Team member 
-![Team](https://user-images.githubusercontent.com/95087747/168390499-5ca8becb-77f6-404d-81ee-62e90d7184dd.PNG)
+####
+1-  محمود رمضان احمد عبده               20180557
+####
+2-  احمد ايهاب محمد محمد                20180024
+####
+3-   كريم عوض مكرم بهجات                20180434
+####
+4-   مصطفي حمدي خليل محمود              20180539
+####
+5-   محمود عبد الرحمن محمد محمود       20180565
+
 
 ## Fine-Grained Hate Speech Detection on Arabic Twitter
 Disclaimer: Some examples have offensive language and hate speech!
